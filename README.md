@@ -51,8 +51,8 @@ For HPC:
 https://perso.telecom-paristech.fr/eagan/class/igr204/datasets 
 
 * The material given in this course is a compilation of different sources:
-http://www.ee.surrey.ac.uk/Teaching/Unix/index.html
-https://www.tutorialspoint.com/unix/index.htm
+- http://www.ee.surrey.ac.uk/Teaching/Unix/index.html
+- https://www.tutorialspoint.com/unix/index.htm
 
    
 *Workshop created as part of the McGill Initiative in Computational Medicine*
